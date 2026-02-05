@@ -1,9 +1,23 @@
 {
     "name": "liry24",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Personal CLI tool for Liry24",
+    "keywords": [
+        "avatar",
+        "cli",
+        "download",
+        "liry24"
+    ],
+    "homepage": "https://github.com/liry24/liry24#readme",
+    "bugs": {
+        "url": "https://github.com/liry24/liry24/issues"
+    },
     "license": "MIT",
     "author": "liry24",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liry24/liry24.git"
+    },
     "bin": {
         "liry24": "./dist/cli.js"
     },
