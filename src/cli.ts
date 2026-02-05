@@ -12,6 +12,6 @@ cli.command('avatar', 'Download avatar image')
     .action(avatarCommand)
 
 cli.help()
-cli.version('0.1.0')
+cli.version('1.0.2')
 
 cli.parse()
